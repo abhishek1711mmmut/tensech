@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tensech/static/css/main.9995be90.css",
-    "main.js": "/tensech/static/js/main.5ea47e9f.js",
+    "main.js": "/tensech/static/js/main.f1b41e67.js",
     "index.html": "/tensech/index.html",
     "main.9995be90.css.map": "/tensech/static/css/main.9995be90.css.map",
-    "main.5ea47e9f.js.map": "/tensech/static/js/main.5ea47e9f.js.map"
+    "main.f1b41e67.js.map": "/tensech/static/js/main.f1b41e67.js.map"
   },
   "entrypoints": [
     "static/css/main.9995be90.css",
-    "static/js/main.5ea47e9f.js"
+    "static/js/main.f1b41e67.js"
   ]
 }

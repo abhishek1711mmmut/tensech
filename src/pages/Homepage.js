@@ -11,13 +11,13 @@ const Homepage = () => {
           <Link to="/get-item">
             <li>Read (GET)</li>
           </Link>
-          <Link to="list-baskets">
+          <Link to="/list-baskets">
             <li>List Baskets (GET)</li>
           </Link>
-          <Link to="update-item">
+          <Link to="/update-item">
             <li>Update (PUT)</li>
           </Link>
-          <Link to="delete-item">
+          <Link to="/delete-item">
             <li>Delete (DELETE)</li>
           </Link>  
         </ul>

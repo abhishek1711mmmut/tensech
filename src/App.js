@@ -30,8 +30,8 @@ function App() {
       
       <div>
         {
-          location.pathname!=="/" && (
-            <Link to="/">
+          location.pathname!=="/tensech/" && (
+            <Link to="/tensech/">
               <button className=" ml-5 bg-slate-400 rounded font-medium px-4 py-2 mt-4 border border-black">
                 Return to home page
               </button>

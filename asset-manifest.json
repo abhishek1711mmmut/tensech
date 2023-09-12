@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tensech/static/css/main.9995be90.css",
+    "main.js": "/tensech/static/js/main.c1b647b4.js",
+    "index.html": "/tensech/index.html",
+    "main.9995be90.css.map": "/tensech/static/css/main.9995be90.css.map",
+    "main.c1b647b4.js.map": "/tensech/static/js/main.c1b647b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9995be90.css",
+    "static/js/main.c1b647b4.js"
+  ]
+}

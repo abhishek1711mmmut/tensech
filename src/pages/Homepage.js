@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 const Homepage = () => {
   return (
     <div className='m-5 p-6'>
-        <ul className='ml-5 text-blue-800 font-bold text-xl list-disc w-fit'>
+        <ul className='ml-5 text-blue-800 font-bold text-xl list-disc w-fit'> 
           <Link to="/add-item">
             <li>Create (POST)</li>
           </Link>
